@@ -3,7 +3,9 @@
     "version": "0.0.2",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "sprite-scaling": "*",
+        "FastRandomBlocks": "github:UnsignedArduino/Fast-Random-Blocks#8c985a77e5c4278e43a7bc375db095c67afb58ed"
     },
     "files": [
         "README.md",
